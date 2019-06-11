@@ -1,2 +1,2 @@
-# publico
-aplicação de teste
+# App_Controle de Vendas
+Manual de Utilizador
